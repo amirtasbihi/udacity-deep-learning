@@ -1,0 +1,56 @@
+python evaluate.py --checkpoint ./checkpoints/rain-princess.ckpt --in-path ./images/input/1.JPG --out-path ./images/output/1A.jpg
+
+python evaluate.py --checkpoint ./checkpoints/la-muse.ckpt --in-path ./images/input/1.JPG --out-path ./images/output/1B.jpg
+
+python evaluate.py --checkpoint ./checkpoints/scream.ckpt --in-path ./images/input/1.JPG --out-path ./images/output/1C.jpg
+
+python evaluate.py --checkpoint ./checkpoints/udnie.ckpt --in-path ./images/input/1.JPG --out-path ./images/output/1D.jpg
+
+python evaluate.py --checkpoint ./checkpoints/wave.ckpt --in-path ./images/input/1.JPG --out-path ./images/output/1E.jpg
+
+python evaluate.py --checkpoint ./checkpoints/wreck.ckpt --in-path ./images/input/1.JPG --out-path ./images/output/1F.jpg
+
+
+
+python evaluate.py --checkpoint ./checkpoints/rain-princess.ckpt --in-path ./images/input/2.JPG --out-path ./images/output/2A.jpg
+
+python evaluate.py --checkpoint ./checkpoints/la-muse.ckpt --in-path ./images/input/2.JPG --out-path ./images/output/2B.jpg
+
+python evaluate.py --checkpoint ./checkpoints/scream.ckpt --in-path ./images/input/2.JPG --out-path ./images/output/2C.jpg
+
+python evaluate.py --checkpoint ./checkpoints/udnie.ckpt --in-path ./images/input/2.JPG --out-path ./images/output/2D.jpg
+
+python evaluate.py --checkpoint ./checkpoints/wave.ckpt --in-path ./images/input/2.JPG --out-path ./images/output/2E.jpg
+
+python evaluate.py --checkpoint ./checkpoints/wreck.ckpt --in-path ./images/input/2.JPG --out-path ./images/output/2F.jpg
+
+
+
+
+
+python evaluate.py --checkpoint ./checkpoints/rain-princess.ckpt --in-path ./images/input/3.JPG --out-path ./images/output/3A.jpg
+
+python evaluate.py --checkpoint ./checkpoints/la-muse.ckpt --in-path ./images/input/3.JPG --out-path ./images/output/3B.jpg
+
+python evaluate.py --checkpoint ./checkpoints/scream.ckpt --in-path ./images/input/3.JPG --out-path ./images/output/3C.jpg
+
+python evaluate.py --checkpoint ./checkpoints/udnie.ckpt --in-path ./images/input/3.JPG --out-path ./images/output/3D.jpg
+
+python evaluate.py --checkpoint ./checkpoints/wave.ckpt --in-path ./images/input/3.JPG --out-path ./images/output/3E.jpg
+
+python evaluate.py --checkpoint ./checkpoints/wreck.ckpt --in-path ./images/input/3.JPG --out-path ./images/output/3F.jpg
+
+
+
+
+python evaluate.py --checkpoint ./checkpoints/rain-princess.ckpt --in-path ./images/input/4.JPG --out-path ./images/output/4A.jpg
+
+python evaluate.py --checkpoint ./checkpoints/la-muse.ckpt --in-path ./images/input/4.JPG --out-path ./images/output/4B.jpg
+
+python evaluate.py --checkpoint ./checkpoints/scream.ckpt --in-path ./images/input/4.JPG --out-path ./images/output/4C.jpg
+
+python evaluate.py --checkpoint ./checkpoints/udnie.ckpt --in-path ./images/input/4.JPG --out-path ./images/output/4D.jpg
+
+python evaluate.py --checkpoint ./checkpoints/wave.ckpt --in-path ./images/input/4.JPG --out-path ./images/output/4E.jpg
+
+python evaluate.py --checkpoint ./checkpoints/wreck.ckpt --in-path ./images/input/4.JPG --out-path ./images/output/4F.jpg
